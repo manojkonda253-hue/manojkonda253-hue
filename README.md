@@ -1,17 +1,64 @@
-<h1 align="center">Hi There !👋 I am Manoj kumar vavitikaluva</h1>
-<h3 align="center">About Me</h3>
+<h1 align="center">Hi 👋, I'm Manoj Kumar Vavitikaluava</h1>
+<h3 align="center">Front-End Developer | Learning & Building the Web 🌐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkonda253-hue&label=Profile%20views&color=0e75b6&style=flat" alt="manojkonda253-hue" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;HTML+%26+CSS+Enthusiast;Learning+Java;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkonda253-hue&show_icons=true&locale=en&layout=compact" alt="manojkonda253-hue" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkonda253-hue&show_icons=true&locale=en" alt="manojkonda253-hue" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkonda253-hue&" alt="manojkonda253-hue" /></p>
+- 🎨 I'm a **Front-End Developer** who loves building clean, responsive web pages
+- 🌱 Currently learning **Java** and improving my web development skills
+- 🚀 Working on personal projects to sharpen my skills
+- 💬 Ask me about **HTML, CSS, and Java**
+- 📫 Reach me at: **manojkumar99499@gmail.com**
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="170" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:manojkumar99499@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
